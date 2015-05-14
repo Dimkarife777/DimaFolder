@@ -1,0 +1,8 @@
+The share with selection helps you control each piece of your personal information.
+
+Nobody
+Visible just to you.
+Teammates
+Visible in teams you accept.
+Public
+Visible to all users.
